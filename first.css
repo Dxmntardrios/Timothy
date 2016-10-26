@@ -1,0 +1,24 @@
+{ height: 200px
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;}
+
+.parallax {
+    height: (enter height here)
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+parallax {
+    height: (enter height here)
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#one {
+    background-image: url("image1.jpg");
+}
